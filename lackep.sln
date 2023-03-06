@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lackep", "lackep\lackep.csproj", "{AD5A2753-2B9B-4449-B39B-363F615B4759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lacekp.Tests", "lacekp.Tests\lacekp.Tests.csproj", "{3FB57F5A-7E8D-4F0F-8D87-85BAE92D4E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5A2753-2B9B-4449-B39B-363F615B4759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5A2753-2B9B-4449-B39B-363F615B4759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5A2753-2B9B-4449-B39B-363F615B4759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5A2753-2B9B-4449-B39B-363F615B4759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB57F5A-7E8D-4F0F-8D87-85BAE92D4E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB57F5A-7E8D-4F0F-8D87-85BAE92D4E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB57F5A-7E8D-4F0F-8D87-85BAE92D4E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB57F5A-7E8D-4F0F-8D87-85BAE92D4E20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F72C24B2-92F6-4AF1-B963-643558498445}
+	EndGlobalSection
+EndGlobal
