@@ -5,7 +5,9 @@ namespace Test.Tests
         [Fact]
         public void Test1()
         {
-            
+            var result = Feature.Method("pawel");
+
+            Assert.Equal("ok", result);
         }
     }
 }
